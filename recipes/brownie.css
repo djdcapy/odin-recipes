@@ -1,0 +1,25 @@
+/* stylesheet */
+
+body {
+    background-image: url('https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: none;
+    width: auto;
+    color: #364052;
+    text-align: center;
+    margin: 50px auto;
+    max-width: 300px;
+}
+
+.title {
+    background-color: #F8CB92;
+    color: #F1EED4;
+    border-radius: 20px 20px;
+    margin: 20px;
+}
+
+.img {
+    border-radius: 30%;
+    margin: 0 auto;
+}
